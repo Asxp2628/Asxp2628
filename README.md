@@ -1,4 +1,8 @@
-Hi there...👋🏻, This is Ricky Ethical Hacker looking 4 an Internship | Let's make our Digital world a Safe Place....
+<h4 align="left">Hi there...👋🏻, This is Ricky Ethical Hacker looking 4 an Internship | Let's make our Digital world a Safe Place....</h4>
+
+###
+
+<img align="right" height="160" src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif"  />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharat-vegi/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@Mr.awaara_4u?si=h2LtSgsYiWw4ushH) 
 
