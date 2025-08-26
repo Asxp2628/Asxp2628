@@ -1,4 +1,4 @@
-<h4 align="left">Hi there...👋🏻, Im a Ethical Hacker looking 4 an Internship | Let's make our Digital world a Safe Place....</h4>
+<h4 align="left">Hi there...👋🏻, Let's make our Digital world a Safe Place....</h4>
 
 ###
 
